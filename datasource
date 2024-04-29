@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Titanic",
+    "year": "1997",
+    "description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+    "Director": "James Cameron",
+    "Duration": "194 min"
+  },
+   {
+    "name": "The Notebook",
+    "year": "2004",
+    "description": "An elderly man reads to a woman with dementia the story of two young lovers whose romance is threatened by the difference in their respective social classes.",
+    "Director": "Nick Cassavetes",
+    "Duration": "123 min"
+  },
+  {
+    "name": "Blue Lagoon: The Awakening",
+    "year": "2012",
+    "description": "Two high-school students become stranded on a tropical island and must rely on each other for survival. They learn more about themselves and one another while falling in love.",
+    "Director": "Eric Boss",
+    "Duration": "85 mins"
+  },
+   {
+    "name": "About Time",
+    "year": "2013",
+    "description": "At the age of 21, Tim discovers he can travel in time and change what happens and has happened in his own life. His decision to make his world a better place by getting a girlfriend turns out not to be as easy as you might think.",
+    "Director": "Richard Curtis",
+    "Duration": "123 min"
+  },
+    {
+    "name": "The Last Song",
+    "year": "2010",
+    "description": "A rebellious girl is sent to a Southern beach town for the summer to stay with her father. Through their mutual love of music, the estranged duo learn to reconnect.",
+    "Director": "Julie Anne Robinson",
+    "Duration": "107 min"
+  },
+   {
+    "name": "Safe Haven",
+    "year": "2013",
+    "description": "A young woman with a mysterious past lands in Southport, North Carolina where her bond with a widower forces her to confront the dark secret that haunts her.",
+    "Director": "Lasse Hallstrom",
+    "Duration": "115 min"
+  },
+  {
+    "name": "The Lucky One",
+    "year": "2012",
+    "description": "A Marine travels to Louisiana after serving three tours in Iraq and searches for the unknown woman he believes was his good luck charm during the war.",
+    "Director": "Scott Hicks",
+    "Duration": "101 mins"
+  },
+   {
+    "name": "Endless Love",
+    "year": "2014",
+    "description": "The story of a privileged girl and a charismatic boy whose instant desire sparks a love affair made only more reckless by parents trying to keep them apart.",
+    "Director": "Shana Feste",
+    "Duration": "104 min"
+  },
+     {
+    "name": "Dear John",
+    "year": "2010",
+    "description": "A romantic drama about a soldier who falls for a conservative college student while he's home on leave.",
+    "Director": "Lasse Hallstrom",
+    "Duration": "108 min"
+  },
+  {
+    "name": "The Vow",
+    "year": "2012",
+    "description": "A car accident puts Paige in a coma, and when she wakes up with severe memory loss, her husband Leo works to win her heart again.",
+    "Director": "Michael Sucsy",
+    "Duration": "104 mins"
+  },
+   {
+    "name": "One Day",
+    "year": "2011",
+    "description": "After spending the night together on the eve of their college graduation, Dexter and Emma are shown each year on the same date to see where they are in their lives. They are sometimes together, and sometimes not.",
+    "Director": "Lone Scherfig",
+    "Duration": "107 min"
+  },
+     {
+    "name": "Remember Sunday",
+    "year": "2013",
+    "description": "A lonely waitress meets a handsome, quirky jewelry store clerk who had a brain aneurysm and thus has short-term memory loss.",
+    "Director": "Jeff Bleckner",
+    "Duration": "96 min"
+  },
+     {
+    "name": "A Walk to Remember",
+    "year": "2002",
+    "description": "Two North Carolina teens, Landon Carter and Jamie Sullivan, are thrown together after Landon gets into trouble and is sentenced to perform community service.",
+    "Director": "Adam Shankman",
+    "Duration": "101 min"
+  },
+  {
+    "name": "P.S. I Love You",
+    "year": "2007",
+    "description": "A car accident puts Paige in a coma, and when she wakes up with severe memory loss, her husband Leo works to win her heart again.",
+    "Director": "Richard LaGravenese",
+    "Duration": "126 mins"
+  },
+   {
+    "name": "One Day",
+    "year": "2011",
+    "description": "A young widow discovers that her late husband has left her 10 messages intended to help ease her pain and start a new life.",
+    "Director": "Lone Scherfig",
+    "Duration": "107 min"
+  },
+]
